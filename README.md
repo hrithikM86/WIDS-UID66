@@ -15,13 +15,10 @@ This week will be a lighter one for those already familiar with Python. For thos
 - [Pandas](https://www.youtube.com/watch?v=vmEHCJofslg)
 - [Matplotlib](https://www.youtube.com/watch?v=OZOOLe2imFo)
 
-NOTE
-- You can use other sources which you are comfortable with, just make sure to learn Python, Numpy, Pandas and Matplotlib till the end of Week 1. 
-- Also only watching the videos won’t give you much idea if you don’t code it up yourself. 
-- Try using Google Collab (highly recommended rather than VScode or Jyputer notebook ) to code. 
-- These are the basic tools to get started, obviously there are various other useful libraries, but learning them at once doesn't make any sense. We will learn whatever extra need
-- Apply for financial aid for all three courses in [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) and audit them. We won’t be dealing with this course during this project, but it’s a good one to get started with ML and you can complete this course after completing this project
-
 Assignment : Test your Python, Numpy, Pandas and Matplotlib concepts
 - [W1_Assignment1](<./Week 1/Assignment_1.ipynb>) 
 - [W1_Assignment1 dataset](<./Week 1/countries.csv>)
+
+NOTE
+- Try using Google Collab (highly recommended rather than VScode or Jyputer notebook ) to code. 
+- Apply for financial aid for all three courses in [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) and audit them. We won’t be dealing with this course during this project, but it’s a good one to get started with ML and you can complete this course after completing this project
