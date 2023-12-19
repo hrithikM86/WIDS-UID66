@@ -22,3 +22,6 @@ NOTE
 - These are the basic tools to get started, obviously there are various other useful libraries, but learning them at once doesn't make any sense. We will learn whatever extra need
 - Apply for financial aid for all three courses in [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) and audit them. We won’t be dealing with this course during this project, but it’s a good one to get started with ML and you can complete this course after completing this project
 
+Assignment : Test your Python, Numpy, Pandas and Matplotlib concepts
+- [W1_Assignment1](<./Week 1/Assignment_1.ipynb>) 
+- [W1_Assignment1 dataset](<./Week 1/countries.csv>)
