@@ -8,7 +8,7 @@ To create a model that can predict whether precipitation occurs or not using var
 
 ## Project Phases
 
-### [Week 1: Introduction to Machine Learning and Python](<./Week 1/>)
+### [Week 1: Introduction to tools used in Machine Learning](<./Week 1/>)
 This week will be a lighter one for those already familiar with Python. For those who are new, we have got you covered. 
 - [Python](https://www.youtube.com/watch?v=_uQrJ0TkZlc) : Watch till 3:36:00, try to write the code and try running them, this goes for all further tutorials 
 - [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI)
@@ -18,7 +18,9 @@ This week will be a lighter one for those already familiar with Python. For thos
 Assignment : Test your Python, Numpy, Pandas and Matplotlib concepts
 - [W1_Assignment1](<./Week 1/Assignment_1.ipynb>) 
 - [W1_Assignment1 dataset](<./Week 1/countries.csv>)
+- Upload the Assignment and Dataset on Google Collab and solve. For downloading individual files form Github use "GitZip for github" chrome extension
 
-NOTE
-- Try using Google Collab (highly recommended rather than VScode or Jyputer notebook ) to code. 
-- Apply for financial aid for all three courses in [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) and audit them. We won’t be dealing with this course during this project, but it’s a good one to get started with ML and you can complete this course after completing this project
+### [Week 2: Introduction to Machine Learning](<./Week 2/>)
+- [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+- [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+- Apply for financial aid for these courses, and while applying, audit the course for free. Watch the videos at 2x speed; no need to complete assignments. By auditing the course, you can immediately access the videos for free without waiting for financial aid approval.
