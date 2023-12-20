@@ -1,4 +1,4 @@
-# Precipitation prediction using ML
+# Precipitation prediction using Machine Learning
 
 The project aims to teach you the basics of machine learning and how to use it to create a machine learning model that can predict precipitation. This project is aimed at students who want to begin their career and are looking for a starting point. We will start right from the basics and move towards advanced concepts.
 
