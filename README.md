@@ -8,6 +8,8 @@ To create a model that can predict whether precipitation occurs or not using var
 
 ## Project Phases
 
+[DOUBT SHEET](https://docs.google.com/spreadsheets/d/13-M019XMTL98WQSMpQ-VgfEu4PgRFUvJvXF1VjbfY5E/edit?usp=sharing)
+
 ### [Week 1: Introduction to tools used in Machine Learning](<./Week 1/>)
 This week will be a lighter one for those already familiar with Python. For those who are new, we have got you covered. 
 - [Python](https://www.youtube.com/watch?v=_uQrJ0TkZlc) : Watch till 3:36:00, try to write the code and try running them, this goes for all further tutorials 
@@ -18,6 +20,7 @@ This week will be a lighter one for those already familiar with Python. For thos
 Assignment : Test your Python, Numpy, Pandas and Matplotlib concepts
 - [W1_Assignment1](<./Week 1/Assignment_1.ipynb>) 
 - [W1_Assignment1 dataset](<./Week 1/countries.csv>)
+- [W1_Assignment submission](https://forms.gle/gP2VYsneNXSDYWgz6)
 - Upload the Assignment and Dataset on Google Collab and solve. For downloading individual files form Github use "GitZip for github" chrome extension
 
 ### [Week 2: Introduction to Machine Learning](<./Week 2/>)
