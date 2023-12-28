@@ -34,5 +34,5 @@ This week, we will review the key concepts covered in week 2 and delve into codi
   
 ### [Week 3.2: Final Project](<./Week 3/>)
 Let's begin with our final project. We will proceed step by step, and resources for implementation will be provided.
-- 
+ 
   
