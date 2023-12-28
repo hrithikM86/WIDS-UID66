@@ -27,3 +27,12 @@ Assignment : Test your Python, Numpy, Pandas and Matplotlib concepts
 - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 - [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
 - Apply for financial aid for these courses, and while applying, audit the course for free. Watch the videos at 2x speed; no need to complete assignments. By auditing the course, you can immediately access the videos for free without waiting for financial aid approval.
+
+### [Week 3.1: Deep Diving into Machine Learning](<./Week 3/>)
+This week, we will review the key concepts covered in week 2 and delve into coding for the machine learning algorithms introduced during that time and begin with our final project.
+- [Developing code for machine learning algorithms](https://www.youtube.com/watch?v=i_LwzRVP7bg)
+  
+### [Week 3.2: Final Project](<./Week 3/>)
+Let's begin with our final project. We will proceed step by step, and resources for implementation will be provided.
+- 
+  
