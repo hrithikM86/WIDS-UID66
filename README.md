@@ -36,7 +36,7 @@ This week, we will review the key concepts covered in week 2 and delve into codi
 Let's begin with our final project. We will proceed step by step, and resources for implementation will be provided.
 - [Dataset](<./Week 3/dataset.csv>): Downlaod the dataset to begin with your Final Project,  For downloading individual files form Github use "GitZip for github" chrome extension
 - Precipitation(PRCP) column in the data frame will be our target feature in this model. Replace all values greater than 0 as 1 (representing precipitation will occur), and values that are equal to 0 representing precipitation will not occur
-- [Drop all rows with null values](https://www.digitalocean.com/community/tutorials/pandas-dropna-drop-null-na-values-from-dataframe)
+- [Dropping null values](https://www.digitalocean.com/community/tutorials/pandas-dropna-drop-null-na-values-from-dataframe) : Drop any column that has an excessive number of null values. For the remaining columns with a lower number of null values, replace those null values with the mode of that column.
 - [EDA](https://www.geeksforgeeks.org/exploratory-data-analysis-in-python/) : Perform EDA to visualize data and identify outliers
 - [Data Preprocessing](https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/) : Remove outliers and find corelation matrix
  
