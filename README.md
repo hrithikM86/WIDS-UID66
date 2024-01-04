@@ -39,5 +39,20 @@ Let's begin with our final project. We will proceed step by step, and resources 
 - [Dropping null values](https://www.digitalocean.com/community/tutorials/pandas-dropna-drop-null-na-values-from-dataframe) : Drop any column that has an excessive number of null values. For the remaining columns with a lower number of null values, replace those null values with the mode of that column.
 - [EDA](https://www.geeksforgeeks.org/exploratory-data-analysis-in-python/) : Perform EDA to visualize data and identify outliers
 - [Data Preprocessing](https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/) : Remove outliers and find corelation matrix
+- Use [SMOTE](https://medium.com/@corymaklin/synthetic-minority-over-sampling-technique-smote-7d419696b88c) to handel class imbalance : Most of the ML algorithms used for classification were designed with the assumption of an equal no. of examples in each case. Therefore we need to balance it. The imbalance has to be removed or reduced.
+- Check for null values once again and proceed
+- Feature selection : Feature selection will be made using the [chi-square test](https://towardsdatascience.com/chi-square-test-for-feature-selection-in-machine-learning-206b1f0b8223), refer [SelectKBest](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html#sklearn.feature_selection.SelectKBest) and [chi2](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.chi2.html#sklearn.feature_selection.chi2)
+- [Normalise](https://www.geeksforgeeks.org/data-normalization-with-pandas/) the dataset
+-  Training model using different techniques
+   - Split data into test and train datasets.
+   - Use logistic regression classifier, decision tree classifier, neural networks training dataset.
+   - Calculate accuracy, precision, recall, F-1 score, and ROC_AUC on the test dataset and visualize it.
+   - Plot confusion matrix using sklearn. 
+- Model Comparison : Compare models based on accuracy and ROC_AUC score and visualize it using seaborn
+
+
+
+
  
-  
+
+
