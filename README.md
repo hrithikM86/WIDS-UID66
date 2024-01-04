@@ -47,8 +47,10 @@ Let's begin with our final project. We will proceed step by step, and resources 
    - Split data into test and train datasets.
    - Use logistic regression classifier, decision tree classifier, neural networks training dataset.
    - Calculate accuracy, precision, recall, F-1 score, and ROC_AUC on the test dataset and visualize it.
-   - Plot confusion matrix using sklearn. 
+   - Plot confusion matrix using sklearn.
+   - Kindly refer to the documentation provided on Google to perform the above steps
 - Model Comparison : Compare models based on accuracy and ROC_AUC score and visualize it using seaborn
+  
 
 
 
